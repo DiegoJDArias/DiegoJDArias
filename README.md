@@ -1,6 +1,4 @@
-![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/f5979d09-886c-4e12-a51e-cbf3c0c4ba56)
-
-
+![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/a6f227a9-5759-4a3e-b33d-9ec2cab97994)
 
 
 <!--
