@@ -1,5 +1,6 @@
 ![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/a6f227a9-5759-4a3e-b33d-9ec2cab97994)
 
+My interest is primary in low-level programming, C/C++ Programming, Assembler, Reverse Engineer, Kernel Developer, Windows Internals.
 
 <!--
 **DiegoJDArias/DiegoJDArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
