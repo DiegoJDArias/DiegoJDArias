@@ -1,4 +1,5 @@
-![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/95986a06-7d9d-4094-9427-2872dcfd7ebc)
+![output-onlinepngtools](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/f325c274-5b8e-47a5-b33c-38e09f670c2f)
+
 
 
 <!--
