@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/95986a06-7d9d-4094-9427-2872dcfd7ebc)
+
 
 <!--
 **DiegoJDArias/DiegoJDArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
