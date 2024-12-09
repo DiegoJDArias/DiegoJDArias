@@ -1,6 +1,6 @@
 ![image](https://github.com/DiegoJDArias/DiegoJDArias/assets/97647686/a6f227a9-5759-4a3e-b33d-9ec2cab97994)
 
-C/C++ Programming | Assembler | Reverse Engineer | Kernel Developer | Windows Internals.
+C/C++ Programming | Assembler | Reverse Engineer | Kernel Developer | Windows Internals | Binary Analysis.
 
 [CIENCIAS DE LA COMPUTACION - UBA](https://www.dc.uba.ar/) | [INGENIERIA INFORMATICA - UNLAM](https://ingenieria.unlam.edu.ar/index.php?seccion=3&idArticulo=10)
 <!--
