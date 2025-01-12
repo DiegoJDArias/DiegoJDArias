@@ -2,7 +2,7 @@
 
 C/C++ Programming | Assembly | Reverse Engineer | Kernel Developer | Windows Internals | Binary Analysis.
 
-[CIENCIAS DE LA COMPUTACION - UBA](https://www.dc.uba.ar/) | [INGENIERIA INFORMATICA - UNLAM](https://ingenieria.unlam.edu.ar/index.php?seccion=3&idArticulo=10)
+[DEPARTAMENTO DE COMPUTACION - UBA](https://www.dc.uba.ar/) | [CIENCIAS DE LA COMPUTACION - EXACTAS](https://computacion.dc.uba.ar/)
 <!--
 **DiegoJDArias/DiegoJDArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
